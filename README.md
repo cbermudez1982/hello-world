@@ -1,4 +1,4 @@
-# hello-world
-Prueba de repositorio
+# HelloWorld
 
-prueba de commits
+First try on Solidity Smart Contracts.
+Simple file with Hello World excersice.
